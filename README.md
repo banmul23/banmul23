@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @banmul23
 - 👀 I’m interested in ...'HTML, PYTHON, AND JAVA SCRIPT,'
-- 🌱 I’m currently learning ...PYTHON AND HTML5
+- 🌱 I’m currently learning ...PYTHON AND C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
